@@ -35,7 +35,7 @@ class LaminaConFiguras extends JPanel {
         /* Uso de Graphics 2D */
         Graphics2D g2 = (Graphics2D) g;
 
-        //********** ME QUEDO EN EL VIDEO 60 ***************//
+        //********** ME QUEDO EN EL VIDEO 60 a medias pero sigo ***************//
 
 
     }
